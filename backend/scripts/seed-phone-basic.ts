@@ -16,105 +16,105 @@ const sampleUsers = [
   {
     name: 'Aishvarya',
     phoneNumber: '+919876543210',
-    password: 'Aish@123',
+    password: 'Aish@123', // ggignore
     location: 'Coimbatore',
     bio: 'Software Engineer at Microsoft, passionate about public speaking and movies. From PSG, speaks Tamil. Interests: Orator, Movies.'
   },
   {
     name: 'Bianca',
     phoneNumber: '+919876543211',
-    password: 'Bian@123',
+    password: 'Bian@123', // ggignore
     location: 'Chennai',
     bio: 'Software Engineer at Wipro, passionate about music and reading. From PSG, speaks Tamil. Interests: Music, Books.'
   },
   {
     name: 'Deepthi',
     phoneNumber: '+919876543212',
-    password: 'Deep@123',
+    password: 'Deep@123', // ggignore
     location: 'Madurai',
     bio: 'Software Engineer at Deloitte, passionate about movies and music. From PSG, speaks Tamil. Interests: Movies, Music.'
   },
   {
     name: 'Dhilip',
     phoneNumber: '+919876543213',
-    password: 'Dhil@123',
+    password: 'Dhil@123', // ggignore
     location: 'Coimbatore',
     bio: 'Software Engineer at JPMC, passionate about technology and inspirational quotes. From PSG, speaks Telugu. Interests: Tech, Quotes.'
   },
   {
     name: 'Harshini',
     phoneNumber: '+919876543214',
-    password: 'Harsh@123',
+    password: 'Harsh@123', // ggignore
     location: 'Ramanathapuram',
     bio: 'Software Engineer at Oracle, passionate about movies and cooking. From PSG, speaks Tamil. Interests: Movies, Cooking.'
   },
   {
     name: 'Indrajit',
     phoneNumber: '+919876543215',
-    password: 'Indra@123',
+    password: 'Indra@123', // ggignore
     location: 'Coimbatore',
     bio: 'Software Engineer at Microsoft, passionate about music and movies. From PSG, speaks Tamil. Interests: Music, Movies.'
   },
   {
     name: 'Iswaryaa',
     phoneNumber: '+919876543216',
-    password: 'Iswar@123',
+    password: 'Iswar@123', // ggignore
     location: 'Erode',
     bio: 'Software Engineer at Deloitte, passionate about movies and public speaking. From PSG, speaks Tamil. Interests: Movies, Orator.'
   },
   {
     name: 'Jenitha',
     phoneNumber: '+919876543217',
-    password: 'Jeni@123',
+    password: 'Jeni@123', // ggignore
     location: 'Chittoor',
     bio: 'Software Engineer at Morgan Stanley, passionate about movies and reading. From PSG, speaks Telugu. Interests: Movies, Books.'
   },
   {
     name: 'Keerthi',
     phoneNumber: '+919876543218',
-    password: 'Keer@123',
+    password: 'Keer@123', // ggignore
     location: 'Coimbatore',
     bio: 'Software Engineer at Walmart, passionate about cricket and music. From PSG, speaks Tamil. Interests: Cricket, Music.'
   },
   {
     name: 'Mokshith',
     phoneNumber: '+919876543219',
-    password: 'Moksh@123',
+    password: 'Moksh@123', // ggignore
     location: 'Hosur',
     bio: 'Software Engineer at Cisco, passionate about books and public speaking. From PSG, speaks Telugu. Interests: Books, Orator.'
   },
   {
     name: 'Preetham',
     phoneNumber: '+919876543220',
-    password: 'Preet@123',
+    password: 'Preet@123', // ggignore
     location: 'Salem',
     bio: 'Software Engineer at Astra Zeneca, passionate about football, cricket and gaming. From PSG, speaks Tamil. Interests: Football, Cricket, Gaming.'
   },
   {
     name: 'Rishitha',
     phoneNumber: '+919876543221',
-    password: 'Rishi@123',
+    password: 'Rishi@123', // ggignore
     location: 'Kolkata',
     bio: 'Software Engineer at Societe Generale, passionate about books and art. From PSG, speaks Hindi. Interests: Books, Art.'
   },
   {
     name: 'Roshini',
     phoneNumber: '+919876543222',
-    password: 'Roshi@123',
+    password: 'Roshi@123', // ggignore      
     location: 'Salem',
     bio: 'Software Engineer at Cisco, passionate about movies and reading. From PSG, speaks Tamil. Interests: Movies, Books.'
   },
   {
     name: 'Sneha',
     phoneNumber: '+919876543223',
-    password: 'Sneha@123',
+    password: 'Sneha@123', // ggignore
     location: 'Coimbatore',
     bio: 'Software Engineer at Medibuddy, passionate about art and crafts. From PSG, speaks Tamil. Interests: Art, Craft.'
   },
   {
     name: 'Swetha',
     phoneNumber: '+919876543224',
-    password: 'Sweth@123',
+    password: 'Sweth@123', // ggignore  
     location: 'Coimbatore',
     bio: 'Software Engineer at Microsoft, passionate about reading and cricket. From PSG, speaks Tamil. Interests: Books, Cricket.'
   }
